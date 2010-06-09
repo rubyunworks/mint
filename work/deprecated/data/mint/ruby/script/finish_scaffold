@@ -1,0 +1,8 @@
+#!/usr/bin/env ruby
+
+# if project use project info to improve scaffolding
+if @project
+  mkdir_p("lib/#{@name}")
+  mkdir_p("data/#{@name}")
+end
+

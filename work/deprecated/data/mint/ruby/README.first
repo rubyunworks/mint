@@ -1,0 +1,10 @@
+To finish scaffolding run:
+
+  $ script/finish_scaffold
+
+or
+
+  C:> ruby script/finish_scaffod
+
+if you are on Windows.
+

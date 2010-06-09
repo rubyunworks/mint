@@ -1,0 +1,26 @@
+--- %YAML:1.0
+
+# NOTE There are many other avaialble options thatn those listed here.
+# These are just the common minimum for a Ruby project. The format
+# is also freely extensible, so you can add any additional entries
+# you'd like. For instance, when working with autorake these entries
+# are accessable via $project.
+
+status   : alpha
+author   : your_name
+email    : your_projects_email@address.com
+homepage : "http://your_package_name.rubyforge.org"
+
+title    : Your Project's Title
+summary  : One line summary
+description: >
+  Multline description
+  goes here.
+
+formats : [ gem, tgz ]  # zip
+
+dependency: []
+
+lib_path:
+  - lib/_package_name_
+

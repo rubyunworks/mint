@@ -1,0 +1,17 @@
+= YOUR PROJECT
+
+Tells us all about your project here.
+
+== How to Install
+
+Describe your installation procedure here.
+
+=== RubyGems.
+
+  gem install _package_
+
+=== Manual installation.
+
+  tar -xvvzf _package_name_
+  cd _package_name_
+  ruby package.rb install
